@@ -1,5 +1,9 @@
 # Real Estate Platform (แพลตฟอร์มฝากขาย-เช่า อสังหาริมทรัพย์)
 
+![Status](https://img.shields.io/badge/status-active_development-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-web-orange?style=flat-square)
+
 แพลตฟอร์มศูนย์รวมการลงประกาศ ฝากขาย และเช่า อสังหาริมทรัพย์ (บ้าน คอนโด ที่ดิน อาคารพาณิชย์) พร้อมระบบค้นหาและจัดการสำหรับผู้ซื้อ ผู้ขาย และนายหน้า
 
 ---
@@ -47,10 +51,17 @@ real-estate-platform/
    cd real-estate-platform
    ```
 
-2. **ติดตั้ง Dependencies และเริ่มการพัฒนา:**
-   *(ตามเทคโนโลยีที่เลือกใช้ เช่น Next.js / React / Node.js)*
+## 🗺️ แผนการพัฒนา (Development Roadmap)
+
+- [x] ออกแบบโครงสร้างและฟีเจอร์หลักของระบบ
+- [x] สร้าง Git Repository และตั้งค่าโปรเจกต์เริ่มต้น
+- [ ] พัฒนาแบบฟอร์มลงประกาศและระบบค้นหาอสังหาริมทรัพย์
+- [ ] ติดตั้งระบบยืนยันตัวตนผู้ใช้ (Authentication & Authorization)
+- [ ] พัฒนาระบบแชทติดต่อและนัดดูสถานที่
+- [ ] ออกแบบ Dashboard สรุปสถิติสำหรับผู้ดูแลระบบ
 
 ---
 
 ## 📝 License
 MIT License
+
